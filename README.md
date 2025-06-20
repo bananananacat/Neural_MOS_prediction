@@ -6,7 +6,7 @@
 
 В данном репозитории вы можете найти код моделей, предсказывающих MOS оценку аудио, а также различные эксперименты с моими архитектурами. Через какое-то время выйдет статья на Хабре, а веса моделей появятся на HuggingFace(приложу все ссылки сюда).
 
-Jupyter Notebook с некоторыми экспериментами лежит вот [здесь](https://github.com/bananananacat/Neural_MOS_prediction/blob/main/MOSNET.ipynb) (большая часть экспериментов проводилась на суперкомпьютере).
+Jupyter Notebook с некоторыми экспериментами лежит вот [здесь](https://github.com/bananananacat/Neural_MOS_prediction/blob/main/MOSNET.ipynb) (здесь не все, большая часть экспериментов проводилась на суперкомпьютере).
 
 Классы моделей MOSNet и MultiModal MOSNet лежат [здесь](https://github.com/bananananacat/Neural_MOS_prediction/blob/main/src/models/mosnet.py) (отнаследованы от [класса](https://github.com/bananananacat/Neural_MOS_prediction/blob/main/src/models/base_model.py) в этой же директории).
 
